@@ -5,7 +5,7 @@ DMENU="rofi -dmenu -lines 3 -width 30 -i -p Youtube"
 OPTIONS='''
 [
   [ "Youtube",           "ytfzf -fD" ],
-  [ "Youtube (Music)",   "ytfzf -fDms" ],
+  [ "Youtube (Music)",   "ytfzf -Dms" ],
   [ "Youtube (History)", "ytfzf -fDH" ]
 ]
 '''
